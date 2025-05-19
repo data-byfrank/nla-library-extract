@@ -42,6 +42,7 @@ API_KEY= //Your API KEY
 ```bash
 python3 scrape_data.py
 python3 geocode_data.py
+```
 
 ## Contributing
 
