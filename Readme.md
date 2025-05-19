@@ -31,7 +31,9 @@ pip3 install -r requirements.txt
 ```
 
 You will need to sign up on maps.co geocoding and create a .env file with the following:
+```bash
 API_KEY= //Your API KEY 
+```
 
 ### Usage
 
